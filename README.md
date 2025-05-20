@@ -1,5 +1,6 @@
-# roomi-moodmate
+# Roomi-moodmate
 Your personal moodmate 🎧 – An emotion-based music recommender that listens to your feelings and plays the perfect track.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://roomi-moodmate-aimw2thcsov3amdfmz6zj9.streamlit.app/)
 
 # 🎧 Roomi – Your MoodMate
 
